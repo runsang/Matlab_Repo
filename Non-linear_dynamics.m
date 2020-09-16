@@ -1,4 +1,3 @@
-% IE 597 hw 2
 clc
 clear all
 close all
